@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    color:whitesmoke;
+}
+.hello{
+    font-size:35px;
+    color:yellow;
+}
+
+body{
+            background-color: rgba(80, 71, 5, 0.719);
+  
+}
+
+p{
+    font-size: 20px;
+    line-height: 50px;
+    color: white;
+    height: 70px;
+    line-height: 80px;
+}
+img{
+    float: right;
+    margin-top: -250px;
+    position: relative;
+    width: 600px;
+    height: 500px;
+    
+}
+.link{
+    padding-top: 300px;
+    
+}
+   
