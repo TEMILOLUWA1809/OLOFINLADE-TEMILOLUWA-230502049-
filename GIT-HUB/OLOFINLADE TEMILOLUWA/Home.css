@@ -1,0 +1,67 @@
+.logo{
+    width: 200px;
+    height: 200px;
+    margin:5px;
+    align-items: top;
+    position: relative;}
+marquee{
+    background: whitesmoke;
+    behavior: alternate;
+    height: 30px;
+    font-size: 20px;
+    font-style: oblique;
+    font-family:serif;
+    color: gold;
+}
+.menu{
+    justify-content: space-evenly;
+    display: flex;
+    align-self: center;
+    color: white;
+    margin-top: 30px
+}
+.login{
+    color: ;
+    border-radius: 7px;
+    border: 1px red;
+    background-color:red;
+    cursor: pointer;
+    font-size: 18px;
+}
+.login:hover{
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(124, 124, 165);
+    color: wheat;
+    transition: 0.5s;
+    opacity: 1;
+    }
+    .login:active{
+        background-color: snow;
+        transition: 0.5s;
+    }
+.word{
+  padding-left: 200px;
+  text-shadow: 30px;
+  text-transform: capitalize;
+  text-decoration: solid;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+color: rgb(175, 58, 58);
+}
+.conclusion{
+background-color: red;
+width:;
+height: 100px;
+color: white;
+justify-content: center;
+align-items: center;
+padding-top: 130px;
+text-align: center;
+
+}
+p{
+    color: rgb(175, 58, 58);
+    font-size: 25px;
+    padding-left: 100px;
+}

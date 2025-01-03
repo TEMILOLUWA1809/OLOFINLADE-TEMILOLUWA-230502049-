@@ -1,0 +1,47 @@
+body{
+ background: url(vedic\ Staff.jpeg);
+ background-size: cover;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    margin:5px;
+    align-items: top;
+    border-radius:10px;
+}
+.center{
+    
+    text-align: center;
+ 
+}
+.name{
+    font-size: 40px;
+    color: rgb(182, 28, 28);
+    font-weight: bold;
+}
+.surname{
+    padding-top: 17px;
+    font-size: 20px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   color: white;
+}
+.submit{
+    background-color:  red;
+    color: white;
+    font-size: 28px;
+    border: none;
+    border-style: double;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+.submit:hover{
+color: yellow;
+background-color:dimgray;
+transition: 0.7s;
+font-size: 40px;
+cursor: pointer;
+}
+.submit.active{
+    
+}

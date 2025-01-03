@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+}
+marquee{
+    background: blue;
+    behavior: alternate;
+    height: 70px;
+    font-size: 60px;
+    font-style: oblique;
+    font-family:serif;
+    color: gold;
+    border-style: dashed;
+    padding-left: 90px;
+}
+.vedic{
+    font-size: 70px;
+    font-family:cursive;
+    align-items: center;
+    text-align: center;
+padding-top: 70px;
+
+}
+.end{
+    background-color: yellow;
+    text-align: center;
+    padding-top: 40px;
+height: 120px;
+width: 100%; 
+font-family: cursive;
+
+font-size: 26px;
+
+}
